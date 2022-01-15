@@ -306,7 +306,7 @@ footer {
 
 /* media quries */
 
-@media (max-width: 500px) and(max-width: 600px) {
+@media (max-width: 600px) {
   .footer__socials {
     display: none;
   }
@@ -357,7 +357,5 @@ footer {
   .header__logo {
     margin: 40px 0 70px;
   }
-  .header__menu{
-    display: none;
-  }
+  
 }
